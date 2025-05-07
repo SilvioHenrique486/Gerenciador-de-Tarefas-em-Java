@@ -2,25 +2,31 @@
 
 Projeto de console simples desenvolvido em Java para cadastrar, listar e marcar tarefas como concluídas. Faz parte do meu portfólio de estudos na transição para a área de tecnologia.
 
+---
+
 ## 🚀 Funcionalidades
 
-- Adicionar nova tarefa
-- Listar todas as tarefas
-- Marcar tarefa como concluída
-- Interface via terminal (console)
-- Programação Orientada a Objetos (POO)
+- Adicionar nova tarefa  
+- Listar todas as tarefas  
+- Marcar tarefa como concluída  
+- Interface via terminal (console)  
+- Programação Orientada a Objetos (POO)  
+
+---
 
 ## 💡 Tecnologias usadas
 
-- Java 17
-- Orientação a Objetos
-- ArrayList
-- Estruturas de repetição (`do while`)
-- Classe `Scanner` para entrada de dados
+- Java 17  
+- Programação Orientada a Objetos  
+- ArrayList (coleções dinâmicas)  
+- Estruturas de repetição (`do-while`, `for`)  
+- Classe `Scanner` para entrada de dados  
+
+---
 
 ## 📷 Demonstração
 
-```bash
+```text
 ---- GERENCIADOR DE TAREFAS ----
 1. Adicionar tarefa
 2. Listar tarefas
@@ -29,15 +35,17 @@ Projeto de console simples desenvolvido em Java para cadastrar, listar e marcar 
 Escolha: 1
 Digite a descrição da tarefa: Estudar Java
 
-📁 Estrutura
-css
+---
+
+## 📁 Estrutura do projeto
 Copiar
 Editar
 GerenciadorTarefas/
-├── Main.java
+├── GerenciadorTarefas.java
 
-👨‍💻 Autor
+## 👨‍💻 Autor
+
 Silvio Henrique da Silva Dias
 📍 Rio de Janeiro, Brasil
-📫 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/silvio-henrique-5241bb363/
 📧 dev.silvio.henrique@gmail.com
